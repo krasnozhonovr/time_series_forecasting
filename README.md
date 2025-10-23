@@ -39,4 +39,4 @@ DTESI 2024, Almaty, Kazakhstan.
 - `src/feature_engineering.py` – creates time-based, calendar, and lag features
 - `src/model_training.py` – trains ML and LSTM models
 - `src/forecasting.py` – generates and visualizes future forecasts
-- `notebooks/call_center_forecast.ipynb` – full end-to-end workflow
+- `notebooks/time_series_forecast.ipynb` – full end-to-end workflow
