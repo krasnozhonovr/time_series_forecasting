@@ -35,8 +35,4 @@ DTESI 2024, Almaty, Kazakhstan.
 
 ## 📁 File Overview
 
-- `src/data_preprocessing.py` – handles data loading, cleaning, and formatting
-- `src/feature_engineering.py` – creates time-based, calendar, and lag features
-- `src/model_training.py` – trains ML and LSTM models
-- `src/forecasting.py` – generates and visualizes future forecasts
-- `notebooks/time_series_forecast.ipynb` – full end-to-end workflow
+- `notebooks/time_series_forecast_lsmt.ipynb` – full end-to-end workflow
