@@ -31,4 +31,12 @@ Python, TensorFlow, Scikit-learn, Pandas, Matplotlib
 Krasnozhonov, R., Altaibek, A., Ydyrys, A., Nurtas, M.  
 *Time Series Forecast of Inbound Call Volume in Call Center using Machine Learning Methods*  
 DTESI 2024, Almaty, Kazakhstan.  
-[PDF Summary](./paper_summary.pdf)
+[PDF Summary](https://ceur-ws.org/Vol-3966/W3Paper15.pdf)
+
+## 📁 File Overview
+
+- `src/data_preprocessing.py` – handles data loading, cleaning, and formatting
+- `src/feature_engineering.py` – creates time-based, calendar, and lag features
+- `src/model_training.py` – trains ML and LSTM models
+- `src/forecasting.py` – generates and visualizes future forecasts
+- `notebooks/call_center_forecast.ipynb` – full end-to-end workflow
