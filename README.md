@@ -14,6 +14,7 @@ To compare traditional ensemble and deep learning approaches for forecasting cal
 - Feature engineering (lags, rolling statistics, one-hot encoding)
 - Anomaly detection using Isolation Forest
   ![Anomaly Detection](results/anomalies.png)
+<img src="results/anomalies.png" alt="Anomaly Detection" width="50"/>
 - Model evaluation via MAE, RMSE, R²
 
 ## 📊 Key Results
