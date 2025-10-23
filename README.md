@@ -35,4 +35,4 @@ DTESI 2024, Almaty, Kazakhstan.
 
 ## 📁 File Overview
 
-- `notebooks/time_series_forecast_lsmt.ipynb` – full end-to-end workflow
+- `notebooks/time_series_forecast_lstm.ipynb` – full end-to-end workflow
