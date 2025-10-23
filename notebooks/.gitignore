@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-*.ipynb_checkpoints/
-data/*.csv
-results/*.xlsx
-models/
-.DS_Store
-.env
