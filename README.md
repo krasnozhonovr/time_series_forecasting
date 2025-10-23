@@ -13,8 +13,7 @@ To compare traditional ensemble and deep learning approaches for forecasting cal
 ## ⚙️ Methods
 - Feature engineering (lags, rolling statistics, one-hot encoding)
 - Anomaly detection using Isolation Forest
-  ![Anomaly Detection](results/anomalies.png)
-<img src="results/anomalies.png" alt="Anomaly Detection" width="50"/>
+  <img src="results/anomalies.png" alt="Anomaly Detection" width="600"/>
 - Model evaluation via MAE, RMSE, R²
 
 ## 📊 Key Results
@@ -28,11 +27,11 @@ LSTM models achieved **higher accuracy and better fit** for fine-grained (half-h
 
 ## 📈 Model Training
 Training dynamics for the **LSTM** model
-![Loss and MAE](results/loss_mae_curve.png)
+<img src="results/loss_mae_curve.png" alt="Loss and MAE" width="600"/>
 
 ### 🔮 Forecasting Results
 The model achieved **97% accuracy** in hourly call volume forecasting
-![Predictions](results/predictions_vs_actual.png)
+<img src="results/predictions_vs_actual.png" alt="Predictions" width="600"/>
 
 ## 🛠️ Tools
 Python, TensorFlow, Scikit-learn, Pandas, Matplotlib
